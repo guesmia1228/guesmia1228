@@ -117,15 +117,11 @@
     <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
       alt="docker"/>
-
   </a>
 
   <a href="https://www.jenkins.io" target="_blank"> 
-
     <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
-
   </a>
-
 </p>
 
 
@@ -133,39 +129,22 @@
 <h3 align="center">Preferred IDEs  & Tools :</h3>
 
 <p align="center"> 
-
   <a href="https://eclipse.org" target="_blank">
-
     <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
-
   </a>
-
   <a href="https://code.visualstudio.com/" target="_blank">
-
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
-
   </a>
-
   <a href="https://postman.com" target="_blank"> 
-
     <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
-
   </a>
-
   <a href="https://www.virtualbox.org/" target="_blank">
-
     <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white"
-
       alt="virtualbox"/>
-
   </a>
-
   <a href="https://ubuntu.com/" target="_blank"> 
-
     <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
-
   </a>
-
 </p>
 
 | ![Github stats](https://github-readme-stats.vercel.app/api?username=guesmia1228&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guesmia1228&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight) |
