@@ -26,9 +26,6 @@
       <a href="https://angular.com" target="_blank">
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=typescript&logoColor=white" />
   </a>
-  <a href="https://babeljs.io/" target="_blank">
-    <img src="https://img.shields.io/badge/babel-F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black" alt="babel"/> 
-  </a>
   <a href="https://bulma.io/" target="_blank">
     <img src="https://img.shields.io/badge/bulma-00D1B2.svg?style=for-the-badge&logo=bulma&logoColor=white"
       alt="bulma"/>
