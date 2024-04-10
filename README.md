@@ -146,6 +146,4 @@
     <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
   </a>
 </p>
-
-| ![Github stats](https://github-readme-stats.vercel.app/api?username=guesmia1228&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guesmia1228&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight) |
 <br>
